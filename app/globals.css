@@ -29,3 +29,35 @@ a {
   background: #111111;
   color: #f3f1ec;
 }
+
+/*
+ * GSAP intro animations.
+ *
+ * We hide animated elements before the browser paints them,
+ * preventing a flash of fully-visible content on first load.
+ *
+ * Reduced-motion users are deliberately excluded so their
+ * content remains immediately visible.
+ */
+@media (prefers-reduced-motion: no-preference) {
+  .hero-letter,
+  .hero-copy,
+  .hero-stat,
+  .hero-visual {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+/*
+ * Only the properties we intend to animate need will-change.
+ * We'll use transform heavily once ScrollTrigger is added.
+ */
+@media (prefers-reduced-motion: no-preference) {
+  .hero-letter,
+  .hero-copy,
+  .hero-stat,
+  .hero-visual-scroll {
+    will-change: transform;
+  }
+}

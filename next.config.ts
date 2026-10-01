@@ -10,8 +10,6 @@ const nextConfig: NextConfig = {
   },
 
   basePath: isProduction ? "/itzfizz-scroll-hero" : "",
-
-  assetPrefix: isProduction ? "/itzfizz-scroll-hero/" : "",
 };
 
 export default nextConfig;
