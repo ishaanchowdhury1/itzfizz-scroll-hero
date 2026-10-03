@@ -8,8 +8,8 @@ Inspired by premium digital agency experiences, this project features a top-view
 
 ## 🚀 Live Demo & Repository
 
-- **Live Webpage**: [https://paraschaturvedi.github.io/itzfizz-scroll-hero/](https://paraschaturvedi.github.io/itzfizz-scroll-hero/) *(Replace with your GitHub Pages URL upon deployment)*
-- **GitHub Repository**: [https://github.com/paraschaturvedi/itzfizz-scroll-hero](https://github.com/paraschaturvedi/itzfizz-scroll-hero)
+- **Live Webpage**: [https://ishaanchowdhury1.github.io/itzfizz-scroll-hero/](https://ishaanchowdhury1.github.io/itzfizz-scroll-hero/)
+- **GitHub Repository**: [https://github.com/ishaanchowdhury1/itzfizz-scroll-hero](https://github.com/ishaanchowdhury1/itzfizz-scroll-hero)
 
 ---
 
@@ -51,7 +51,7 @@ On initial page load, a custom GSAP timeline animates:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/paraschaturvedi/itzfizz-scroll-hero.git
+git clone https://github.com/ishaanchowdhury1/itzfizz-scroll-hero.git
 cd itzfizz-scroll-hero
 
 # 2. Install dependencies
