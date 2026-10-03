@@ -8,8 +8,8 @@ Inspired by premium digital agency experiences, this project features a top-view
 
 ## 🚀 Live Demo & Repository
 
-- **Live Webpage**: [https://ishaanchowdhury1.github.io/itzfizz-scroll-hero/](https://ishaanchowdhury1.github.io/itzfizz-scroll-hero/)
-- **GitHub Repository**: [https://github.com/ishaanchowdhury1/itzfizz-scroll-hero](https://github.com/ishaanchowdhury1/itzfizz-scroll-hero)
+- **Live Webpage**: https://ishaanchowdhury1.github.io/itzfizz-scroll-hero/
+- **GitHub Repository**: https://github.com/ishaanchowdhury1/itzfizz-scroll-hero
 
 ---
 
